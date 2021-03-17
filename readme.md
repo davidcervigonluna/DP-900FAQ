@@ -1,17 +1,15 @@
-# Preguntas más frecuentes sobre Azure Fundamentals (Virtual Training Days)
+# Preguntas más frecuentes sobre Azure Data Fundamentals (Virtual Training Days)
 
 ## Sobre esta formación
 
 ### ¿Se esta grabando la sesión?. ¿Están los contenidos disponibles para poder descargarlos?
 
-Al ser el AZ-900 un curso oficial de Microsoft (MOC), no podemos hacer publica la grabación, ni compartir el material del instructor. Sin embargo, podeis encontrar todo el contenido de los cuatro módulos de los que consta este curso en Microsoft Learn
+Al ser el DP-900 un curso oficial de Microsoft (MOC), no podemos hacer publica la grabación, ni compartir el material del instructor. Sin embargo, podeis encontrar todo el contenido de los cuatro módulos de los que consta este curso en Microsoft Learn
 
-- [Aspectos básicos de Azure, parte 1: Descripción de los conceptos básicos de Azure](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-cloud-concepts/)
-- [Aspectos básicos de Azure, parte 2: Descripción de los servicios básicos de Azure](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-core-azure-services/)
-- [Aspectos básicos de Azure, parte 3: Descripción de las principales soluciones y herramientas de administración de Azure](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
-- [Aspectos básicos de Azure, parte 4: Descripción de las características de seguridad general y de seguridad de red](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-general-security-network-security-features/)
-- [Aspectos básicos de Azure, parte 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
-- [Aspectos básicos de Azure, parte 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
+- [Aspectos básicos de los datos de Azure: Exploración de los conceptos de los datos principales](https://docs.microsoft.com/es-es/learn/paths/azure-data-fundamentals-explore-core-data-concepts/)
+- [Aspectos básicos de los datos de Azure: uso de los datos relacionales en Azure](https://docs.microsoft.com/es-es/learn/paths/azure-data-fundamentals-explore-relational-data/)
+- [Aspectos básicos de los datos de Azure: uso de los datos no relacionales en Azure](https://docs.microsoft.com/es-es/learn/paths/azure-data-fundamentals-explore-non-relational-data/)
+- [Aspectos básicos de los datos de Azure: análisis del almacenamiento de datos moderno en Azure](https://docs.microsoft.com/es-es/learn/paths/azure-data-fundamentals-explore-data-warehouse-analytics/)
 
 ### ¿Hay mas formaciones como esta?. ¿Dónde me puedo informar?
 
@@ -34,7 +32,7 @@ Estos cursos tienen varios dias de duración, e incluyen laboratorios guiados e 
 
 ### ¿Como puedo reservar mi examen?. ¿Recibiré un voucher por correo electrónico?
 
-El exámen lo podréis programar gratuitamente transcurridos unos dias después de la finalzación del curso a través de https://docs.microsoft.com/es-es/learn/certifications/exams/az-900 (opción Pearson VUE). Esto hace innecesario el uso de vouchers. Para ello deberás utilizar la dirección de correo electronico que utilizaste para registrarte en la formación. En dicha dirección habrás recibido los enlaces para asistir a las dos jornadas del curso, y también recibiras un correo en los proximos días agradeciéndote tu asistencia, con estas mismas instrucciones para programar tu exámen gratuito. Aqui te dejamos un video con el paso a paso de cñomo hacerlo: https://www.microsoft.com/en-us/videoplayer/embed/RE4DoHP 
+El exámen lo podréis programar gratuitamente transcurridos unos dias después de la finalzación del curso a través de https://docs.microsoft.com/es-es/learn/certifications/exams/DP-900 (opción Pearson VUE). Esto hace innecesario el uso de vouchers. Para ello deberás utilizar la dirección de correo electronico que utilizaste para registrarte en la formación. En dicha dirección habrás recibido los enlaces para asistir a las dos jornadas del curso, y también recibiras un correo en los proximos días agradeciéndote tu asistencia, con estas mismas instrucciones para programar tu exámen gratuito. Aqui te dejamos un video con el paso a paso de cñomo hacerlo: https://www.microsoft.com/en-us/videoplayer/embed/RE4DoHP 
 
 ### ¿Como puedo recibir soporte si tengo algun problema durante el proceso de reclamacion del beneficio de examen gratuito?
 
@@ -61,26 +59,21 @@ Aqui teneis un par de guías paso a paso para programar el examen online
 
 ### ¿Cómo es el exámen?
 
-La prueba consta de entre 40-50 preguntas tipo test, de opción múltiple, donde las respuestas fallidas no restan puntuación. El tiempo de duración es de en torno a una hora. Es necesario obtener 700/900 para aprobar. Al contrario de algunos examenes avanzados, el examen del AZ-900 no incluye laboratorios ni parte préctica
+La prueba consta de entre 40-50 preguntas tipo test, de opción múltiple, donde las respuestas fallidas no restan puntuación. El tiempo de duración es de en torno a una hora. Es necesario obtener 700/900 para aprobar. Al contrario de algunos examenes avanzados, el examen del DP-900 no incluye laboratorios ni parte préctica
 
 ## ¿Donde puedo encontrar recursos adicionales para continuar aprendiendo y preparar el examen de certificación?
 
 ### Documentación del curso
 
-- Certification landing page: https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals
-- Exam Landing Page: https://docs.microsoft.com/en-us/learn/certifications/exams/az-900 
+- Certification landing page: https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900
+- Exam Landing Page: https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900 
 - Microsoft Learn Content:
-    - https://docs.microsoft.com/learn/paths/az-900-describe-cloud-concepts/
-    - https://docs.microsoft.com/learn/paths/az-900-describe-core-azure-services/
-    - https://docs.microsoft.com/learn/paths/az-900-describe-core-solutions-management-tools-azure/
-    - https://docs.microsoft.com/learn/paths/az-900-describe-general-security-network-security-features/
-    - https://docs.microsoft.com/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/
-    - https://docs.microsoft.com/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/
-- Skills measured: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
-- Syllabus:
-    - (1 day): https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01
-    - (2 day): https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t00
-- Labs and Demos: https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals
+    - https://docs.microsoft.com/en-us/learn/paths/azure-data-fundamentals-explore-core-data-concepts/
+    - https://docs.microsoft.com/en-us/learn/paths/azure-data-fundamentals-explore-relational-data/
+    - https://docs.microsoft.com/en-us/learn/paths/azure-data-fundamentals-explore-non-relational-data/
+    - https://docs.microsoft.com/en-us/learn/paths/azure-data-fundamentals-explore-data-warehouse-analytics/
+- Skills measured: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
+- Syllabus: https://docs.microsoft.com/en-us/learn/certifications/courses/dp-900t00
 
 ### Toda la documentación de Azure
 
@@ -90,18 +83,10 @@ https://docs.microsoft.com/en-us/
 
 https://azurecharts.com/
 
-### Third-parties
-
-- https://linuxacademy.com/course/microsoft-azure-fundamentals-az-900-exam-prep/
-- https://www.pluralsight.com/courses/azure-fundamentals
-- https://www.edx.org/learn/azure 
-- https://www.udemy.com/topic/microsoft-azure/ 
-
 ### Exámenes de prueba:
 
 - Oficiales (con coste): https://www.measureup.com/microsoft-technical.html
-- https://www.testpreptraining.com/microsoft-azure-fundamentals-az-900-practice-exam-questions
-- https://www.itexams.com/exam/AZ-900
+- https://www.itexams.com/exam/DP-900
 
 ### ¿Existe la posibilidad de conseguir subscripciones de prueba para practicar?
 
