@@ -74,6 +74,7 @@ La prueba consta de entre 40-50 preguntas tipo test, de opción múltiple, donde
     - https://docs.microsoft.com/en-us/learn/paths/azure-data-fundamentals-explore-data-warehouse-analytics/
 - Skills measured: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
 - Syllabus: https://docs.microsoft.com/en-us/learn/certifications/courses/dp-900t00
+- Labs and Demos: https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals
 
 ### Toda la documentación de Azure
 
