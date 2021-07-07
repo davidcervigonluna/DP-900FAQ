@@ -17,7 +17,7 @@ Si, dentro de los Virtual Training Days tenemos más formaciones de Azure Fundam
 
 - [Próximos Virtual Training Days en Español](https://www.microsoft.com/es-es/training-days#primaryR3)
 - [Próximos Virtual Training Days en Inglés](https://www.microsoft.com/en-ie/training-days?activetab=0:primaryr4)
-- [Twitter MS_Empresas](www.twitter.com/MS_Empresas)
+- [Twitter MS_Empresas](https://www.twitter.com/MS_Empresas)
 - [Linkedin](https://www.linkedin.com/company/microsoft/)
 
 ### ¿Tenéis también los cursos de certificación de los roles "Associate" y "Expert" en este mismo formato?. Azure Administrator, Azure Developer, Security Engineer, Data Engineer, Database Engineer, Data Scientist, Data Analyst, Azure Solutions Architect, Azure DevOps Engineer...
